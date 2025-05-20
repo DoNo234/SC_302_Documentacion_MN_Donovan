@@ -1,2 +1,4 @@
+//Este es un archivo de prueb
 alert("hola mundo");
-Commit changes
+Console.log("cambios en el archivo");
+
